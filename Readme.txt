@@ -1,6 +1,3 @@
-Thanks for downloading this template!
+WebChili 
 
-Template Name: NiceAdmin
-Template URL: https://bootstrapmade.com/nice-admin-bootstrap-admin-html-template/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+Penugasan UAS dengan menggunakan IOT
